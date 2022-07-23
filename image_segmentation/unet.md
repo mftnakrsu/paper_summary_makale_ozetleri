@@ -1,4 +1,4 @@
-# U-Net Özet
+# U-Net 
 
 Derin öğrenme (DL) tabanlı semantik segmentasyon yöntemi, son yıllarda görüntü bölütlemede en
 gelişmiş performansı sağlamaktadır. Daha spesifik olarak, bu teknikler tıbbi görüntü sınıflandırma,
