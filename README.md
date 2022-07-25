@@ -21,6 +21,9 @@ Akademik çalışma için okuduğum makalenin özetleri
 * <em>Comparison of Yolo, SSD, Faster RCNN for
 Real Time Tennis Ball Tracking for Action Decision Networks, 2019 </em>[[makale]](https://ieeexplore.ieee.org/document/9079965) [[özet]](https://github.com/mftnakrsu/paper_summary_makale_ozetleri/blob/main/object_detection/comparison_of_yolo_ssd_faster-rcnn-for_tennis_ball_tracking.md)
 
+* <em>Pedestrian Detection Based on YOLO Network Model, 2018</em> [[makale]](https://ieeexplore.ieee.org/document/8484698) [[özet]](https://github.com/mftnakrsu/paper_summary_makale_ozetleri/blob/main/object_detection/pedestrian_detection_based_on_yolo_network_model.md)
+
+
 ## Instance Segmentation
 
 ## Data Science
