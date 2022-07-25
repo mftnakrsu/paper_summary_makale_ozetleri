@@ -2,7 +2,7 @@
 
 ## 1.1 Öz
 
-Yaya tespiti, yaya davranış analizi gibi konular için temel tespittir. Aynı zamanda daha sonraki tracking gibi işlemler için de yardımcı olur. Şu anda en klasik yaya algılama tarafından önerilen HOG+SVM yaya algılama yöntemidir. Bu makalede YOLO versiyonları ve YOLO-R versiyonu arasıdaki kıyaslama incelemiştir. 
+Yaya tespiti, yaya davranış analizi gibi konular için temel tespittir. Aynı zamanda daha sonraki tracking gibi işlemler için de yardımcı olur. Şu anda en klasik, HOG+SVM yaya algılama yöntemidir. Bu makalede YOLO versiyonları ve YOLO-R versiyonu arasıdaki kıyaslama incelemiştir. 
 
 ## 1.2 Kullanılan Algoritmalar
     - YOLO-v3
