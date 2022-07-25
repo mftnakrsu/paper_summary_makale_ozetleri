@@ -19,7 +19,7 @@ Akademik çalışma için okuduğum makalenin özetleri
 * <em>Comparison of Faster-RCNN, YOLO, and SSD for Real-Time Vehicle Type Recognition, 2021</em> [[makale]](https://ieeexplore.ieee.org/document/9277040) [[özet]](https://github.com/mftnakrsu/paper_summary_makale_ozetleri/blob/main/object_detection/comparison_of_faster_cnn_yolo_ssd_vehicle_recognation.md)
 
 * <em>Comparison of Yolo, SSD, Faster RCNN for
-Real Time Tennis Ball Tracking for Action Decision Networks, 2019 </em>[[makale]](https://ieeexplore.ieee.org/document/9079965)[[özet]](https://github.com/mftnakrsu/paper_summary_makale_ozetleri/blob/main/object_detection/comparison_of_yolo_ssd_faster-rcnn-for_tennis_ball_tracking.md)
+Real Time Tennis Ball Tracking for Action Decision Networks, 2019 </em>[[makale]](https://ieeexplore.ieee.org/document/9079965) [[özet]](https://github.com/mftnakrsu/paper_summary_makale_ozetleri/blob/main/object_detection/comparison_of_yolo_ssd_faster-rcnn-for_tennis_ball_tracking.md)
 
 ## Instance Segmentation
 
