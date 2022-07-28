@@ -36,7 +36,8 @@ Test kısmında 1.1'de bahsedildiği üzere 2 farklı donanım kullanılıyor.
 |Jetson Xavier NX|NVIDIA Volta architecture with 384 NVIDIA®CUDA® cores|6-core NVIDIA Carmel ARM®v8.2 | 8GB|
 
 ## Sonuç
-Yapılan teslerin sonucunda YOLOv3'de yüksek precision düşük recall değerleri görülmüş. YOLOv4 ve YOLOv5l'de ise daha dengeli precision ve recall değerleri gözlemlenmekte. Doğruluk v5, v4, v3 şeklinde giderken FPS de ters orantılı şekilde v5'den v3'e azalmaktadır. 
+
 ![img](/imgs/YOLO-comparison-for-UAV.png)
 
-Makalenin yazarları en yüksek doğruluğa sahip olduğu için YOLOv5l modelini seçmeyi tercih etmişler.
+
+Yapılan teslerin sonucunda YOLOv3'de yüksek precision düşük recall değerleri görülmüş. YOLOv4 ve YOLOv5l'de ise daha dengeli precision ve recall değerleri gözlemlenmekte. Doğruluk v5, v4, v3 şeklinde giderken FPS de ters orantılı şekilde v5'den v3'e azalmaktadır. Makalenin yazarları en yüksek doğruluğa sahip olduğu için YOLOv5l modelini seçmeyi tercih etmişler.
