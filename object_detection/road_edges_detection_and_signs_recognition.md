@@ -11,7 +11,7 @@ Makale, şerit tespiti ve işaret tespiti olmak üzere iki bölümden oluşmakta
 ## 1. CANNY KENAR ALGILAMA
 
 Görüntünün türevini alarak kenar bulur, son derece etkin olarak kullanılan bir algoritmadır.
-#### 1.1 Gauss Filtresi
+### 1.1 Gauss Filtresi
 Gauss filtresi görüntüleri yumuşatmak ve görüntü üzerindeki gürültüyü arındırmak için kullanılır. 
 Bu işlem:
 - Gauss filtre katsayısı ile görüntünün konvolüsyonu sonucu gerçekleşir.  
