@@ -25,6 +25,8 @@ Real Time Tennis Ball Tracking for Action Decision Networks, 2019 </em>[[makale]
 
 * <em>Comparing YOLOv3, YOLOv4 and YOLOv5 for Autonomous Landing Spot Detection in Faulty UAVs</em> [[makale]](https://www.mdpi.com/1424-8220/22/2/464) [[özet]](https://github.com/mftnakrsu/paper_summary_makale_ozetleri/blob/main/object_detection/Comparing_YOLOv3_YOLOv4_and_YOLOv5_for_Autonomous.md)
 
+* <em>Real Time Road Edges Detection And Road Signs Recognition</em> [[makale]](https://ieeexplore.ieee.org/document/7338642) [[özet]](https://github.com/suhedaras/paper_summary_makale_ozetleri/blob/road_edges_and_signs_detection/object_detection/road_edges_detection_and_signs_recognition.md)
+
 ## Instance Segmentation
 
 ## Data Science
