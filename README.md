@@ -8,6 +8,7 @@ Akademik çalışma için okuduğum makalenin özetleri
   * [Instance Segmentation](#instance-segmentation)
   * [Data Science](#data-science)
   * [Data Engineer](#data-engineer)
+  * [Lane Detection ](#lane-detection)
 
 
 
@@ -23,9 +24,13 @@ Real Time Tennis Ball Tracking for Action Decision Networks, 2019 </em>[[makale]
 
 * <em>Pedestrian Detection Based on YOLO Network Model, 2018</em> [[makale]](https://ieeexplore.ieee.org/document/8484698) [[özet]](https://github.com/mftnakrsu/paper_summary_makale_ozetleri/blob/main/object_detection/pedestrian_detection_based_on_yolo_network_model.md)
 
-* <em>Comparing YOLOv3, YOLOv4 and YOLOv5 for Autonomous Landing Spot Detection in Faulty UAVs</em> [[makale]](https://www.mdpi.com/1424-8220/22/2/464) [[özet]](https://github.com/mftnakrsu/paper_summary_makale_ozetleri/blob/main/object_detection/Comparing_YOLOv3_YOLOv4_and_YOLOv5_for_Autonomous.md)
+* <em>Comparing YOLOv3, YOLOv4 and YOLOv5 for Autonomous Landing Spot Detection in Faulty UAVs, 2022</em> [[makale]](https://www.mdpi.com/1424-8220/22/2/464) [[özet]](https://github.com/mftnakrsu/paper_summary_makale_ozetleri/blob/main/object_detection/Comparing_YOLOv3_YOLOv4_and_YOLOv5_for_Autonomous.md)
 
-* <em>Real Time Road Edges Detection And Road Signs Recognition</em> [[makale]](https://ieeexplore.ieee.org/document/7338642) [[özet]](https://github.com/suhedaras/paper_summary_makale_ozetleri/blob/road_edges_and_signs_detection/object_detection/road_edges_detection_and_signs_recognition.md)
+* <em>Real Time Road Edges Detection And Road Signs Recognition, 2015</em> [[makale]](https://ieeexplore.ieee.org/document/7338642) [[özet]](https://github.com/suhedaras/paper_summary_makale_ozetleri/blob/road_edges_and_signs_detection/object_detection/road_edges_detection_and_signs_recognition.md)
+
+## Lane Detection
+
+* <em>A Computer Vision based Lane Detection Approach, 2019</em> [[makale]](https://www.mecs-press.org/ijigsp/ijigsp-v11-n3/IJIGSP-V11-N3-4.pdf) [[özet]](https://github.com/mftnakrsu/paper_summary_makale_ozetleri/blob/main/lane_detection/a_computer_vision_based_lane_detection_approach.md)
 
 ## Instance Segmentation
 
