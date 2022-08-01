@@ -8,7 +8,7 @@ Bilgisayarlı görü tabanlı teknolojinin gelişmesiyle kamera popüler bir sen
 
 ## Şerit Tespiti İçin Önerilen Yöntem  Aşamaları <br/>
 
-**Kamera Kalbirasyonu** 
+**Kamera Kalibrasyonu** 
 
 Kamera görüntülerini analiz etmenin ilk adımı kalibrasyondur. Kameradan alınan görüntüler kesin doğrulukta olmadığından görüntü üzerinde doğru analizler yapabilmek için ilk önce kamera kalibre edilip görüntü üzerindeki bozukluklar giderilmelidir. Kamera kalibrasyonu, kamera matrisi ve bozulma katsayıları kullanılarak satranç tahtası görüntüleri üzerinden hesaplanmıştır.
 
