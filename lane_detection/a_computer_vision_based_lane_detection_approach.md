@@ -51,4 +51,4 @@ Kamera açısından bakıldığında şerit çizgileri ufukta birleşiyormuş gi
 Deneysel sonuçlar önerilen tekniğin hava koşulları ve çeşitli aydınlatma gibi farklı ortam koşullarında şerit çizgilerini doğru bir şekilde tespit ettiğini göstermektedir.
 Sistemin gücünü ölçmek için, yöntemin doğruluğu da KITTI veri setinden 175 görüntü üzerinde tahmin edilmektedir. 175 görüntü arasından 147 görüntüdeki şeritler doğru, 9 undaki şeritler yanlış algılanmıştır. Önerilen sistemin performansı Tablo-1'de gösterilmiştir.<br/>
 
-<img src="images/table.png" width="450" height="253">
+<img src="images/table.png" width="450" height="254">
