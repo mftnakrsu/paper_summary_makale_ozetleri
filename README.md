@@ -34,11 +34,11 @@ Real Time Tennis Ball Tracking for Action Decision Networks, 2019 </em>[[makale]
 
 * <em>A Computer Vision based Lane Detection Approach, 2019</em> [[makale]](https://www.mecs-press.org/ijigsp/ijigsp-v11-n3/IJIGSP-V11-N3-4.pdf) [[özet]](https://github.com/mftnakrsu/paper_summary_makale_ozetleri/blob/main/lane_detection/a_computer_vision_based_lane_detection_approach.md)
 
+## Image Processing
+
 ## Instance Segmentation
 
 ## Data Science
-
-## Image Processing
 
 ## Data Engineer
 
