@@ -18,7 +18,7 @@ Geleneksel yöntemler genellikle şerit çizgilerini temsil etmek için manuel d
 
 Özellikle son yıllarda görüntü üzerindeki işlemlerde güçlü performans gösterdiğinden bir çok CNN tabanlı şerit algılama yöntemi önerilmiştir.
 
-#### 1-Segmentasyon Tabanlı Yöntemler
+#### 1-SEGMENTASYON TABANLI YÖNTEMLER
 **VPGNet** Ufuk noktalarından (üç boyutlu uzayda paralel şerit çizgilerinin birleştiği varsayılan nokta) yararlanarak şerit ve yol tespit işlemlerini birlikte yürüten çok görevli bir birleşik ağ önerir.<br/>
 **SPATİAL CNN (SCNN)** Özellik haritaları içinde bir katmandaki satırlar ve sütunlar boyunca  pikseller arasındaki mesaj geçişlerini sağlayan ilişkileri yakalar.
 CNN ile karşılaştırıldığında şerit çizgilerini daha sürekli algılayabildiği görülmüştür.<br/>
