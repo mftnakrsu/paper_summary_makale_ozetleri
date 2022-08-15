@@ -34,6 +34,9 @@ Real Time Tennis Ball Tracking for Action Decision Networks, 2019 </em>[[makale]
 
 * <em>A Computer Vision based Lane Detection Approach, 2019</em> [[makale]](https://www.mecs-press.org/ijigsp/ijigsp-v11-n3/IJIGSP-V11-N3-4.pdf) [[özet]](https://github.com/mftnakrsu/paper_summary_makale_ozetleri/blob/main/lane_detection/a_computer_vision_based_lane_detection_approach.md)
 
+* <em>Polynomial Regression Network for Variable-Number Lane Detection, 2020</em> [[makale]](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123630698.pdf) [[özet]](https://github.com/mftnakrsu/paper_summary_makale_ozetleri/blob/main/lane_detection/Polynomial_Regression_Network_for_Variable-Number_Lane_Detection.md)
+
+
 ## Image Processing
 * <em> Solder void detection of bottom terminated components on printed circuit board for low-resolution x-ray images, 2018</em> [[makale]](https://ieeexplore.ieee.org/document/8404310) [[özet]](https://github.com/mftnakrsu/paper_summary_makale_ozetleri/blob/main/image_processing/solder_void_detection.md)
 
