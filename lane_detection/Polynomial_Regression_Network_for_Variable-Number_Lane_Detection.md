@@ -87,7 +87,7 @@ TuSimple ve CULane veri kümeleri önce 256 × 512 sonra 256 × 768 olacak şeki
  
 **Polinom Derecesi ve Yükseklik**
  
-Polinom derecesi ve polinom parçalarının yüksekliği şerit eğrilerini tanımlama yeteneğini ve karmaşıklığını temsil eden önemli parametrelerdir. Örneğin daha küçük bir polinom yüksekliği, daha kısa olduğundan daha düşük bir polinom derecesi gerektirir. Dolayısıyla şerit bölümlerinin eğrilerle yerleştirilmesi daha kolaydır.
+Polinom derecesi ve polinom parçalarının yüksekliği şerit eğrilerini tanımlama yeteneğini temsil eden önemli parametrelerdir. Örneğin daha küçük bir polinom yüksekliği, daha kısa olduğundan daha düşük bir polinom derecesi gerektirir. Dolayısıyla şerit bölümlerinin eğrilerle yerleştirilmesi daha kolaydır.
 Burada polinom derecesi ve H(yükseklik) degerlerinin farklı kombinasyonlarının etkilerini incelenmistir.<br/>
 ![](images/tablo1.jpeg)<br/>
  
