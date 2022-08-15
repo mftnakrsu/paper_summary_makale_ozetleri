@@ -72,7 +72,7 @@ Deneysel değerlendirmede, şeritler sürekli şerit eğrilerini oluşturan poli
 ![](images/poly4.png)<br/>
 
 ## SONUÇLAR :
-TuSimple ve CULane'deki veri kümeleri önce 256 × 512 sonra 256 × 768 olacak şekilde yeniden boyutlandırılır. Ayrıca çeşitli veri büyütme stratejilerine başvurulmuştur: ters döndürme, döndürme, parlaklık değişimi.
+TuSimple ve CULane veri kümeleri önce 256 × 512 sonra 256 × 768 olacak şekilde yeniden boyutlandırılır. Ayrıca çeşitli veri büyütme stratejilerine başvurulmuştur: ters döndürme, döndürme, parlaklık değişimi.
  
 **TuSimple**
 
