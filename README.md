@@ -9,6 +9,8 @@ Akademik çalışma için okuduğum makalenin özetleri
   * [Data Science](#data-science)
   * [Data Engineer](#data-engineer)
   * [Lane Detection ](#lane-detection)
+  * [Image Processing ](#image-processing)
+
 
 
 
@@ -35,6 +37,8 @@ Real Time Tennis Ball Tracking for Action Decision Networks, 2019 </em>[[makale]
 ## Instance Segmentation
 
 ## Data Science
+
+## Image Processing
 
 ## Data Engineer
 
