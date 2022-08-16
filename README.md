@@ -40,6 +40,8 @@ Real Time Tennis Ball Tracking for Action Decision Networks, 2019 </em>[[makale]
 ## Image Processing
 * <em> Solder void detection of bottom terminated components on printed circuit board for low-resolution x-ray images, 2018</em> [[makale]](https://ieeexplore.ieee.org/document/8404310) [[özet]](https://github.com/mftnakrsu/paper_summary_makale_ozetleri/blob/main/image_processing/solder_void_detection.md)
 
+* <em>Comparison of Brain Tumor Detection in MRI Images Using Straightforward Image Processing Techniques and Deep Learning Techniques</em> [[makale]](https://ieeexplore.ieee.org/document/9461328) [[özet]](https://github.com/mftnakrsu/paper_summary_makale_ozetleri/blob/main/image_processing/Comparison-of-Brain-Tumor-Detection-in-MRI-Images-Using-Straightforward-Image-Processing-Techniques-and-Deep-Learning-Techniques.md)
+
 ## Instance Segmentation
 
 ## Data Science
